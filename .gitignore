@@ -1,4 +1,4 @@
 config.ini
 .idea
-/storage
 /knowledge.db
+/storage/*
