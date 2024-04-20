@@ -14,8 +14,8 @@ To run this application, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone [repository-url]
-   cd [repository-directory]
+   git clone git@github.com:Jankozeluh/Langchain-training.git
+   cd Langchain-training
    ```
 
 2. **Install Dependencies:**
@@ -36,7 +36,7 @@ To run this application, follow these steps:
 
 5. **Run the Application:**
    ```
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Usage
